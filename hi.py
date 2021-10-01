@@ -1,3 +1,6 @@
 input(b)
 input(c)
 print(b+c)
+input(v)
+input(g)
+print(v-g)
