@@ -1,6 +1,6 @@
-input(b)
+input(f)
 input(c)
-print(b+c)
+print(f+c)
 input(d)
 input(e)
 print(d+e)
