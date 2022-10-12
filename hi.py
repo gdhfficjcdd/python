@@ -1,3 +1,6 @@
 input(b)
 input(c)
 print(b+c)
+input(d)
+input(e)
+print(d+e)
